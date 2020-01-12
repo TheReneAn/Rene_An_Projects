@@ -1,4 +1,4 @@
-* PROJECTS
+# PROJECTS
 
 [Web Programming]
 Coffee shop Webpage									       DEC 05, 2019
