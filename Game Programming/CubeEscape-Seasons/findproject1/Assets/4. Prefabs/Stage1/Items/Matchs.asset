@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb80e1126ec73224291803f5447aa621, type: 3}
+  m_Name: Matchs
+  m_EditorClassIdentifier: 
+  name: Matchs
+  icon: {fileID: 21300000, guid: 42a16072e0386b9438155f97bc5f06a9, type: 3}
+  inDfaultItem: 0
