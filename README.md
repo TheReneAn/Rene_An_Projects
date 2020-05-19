@@ -4,7 +4,7 @@
 * [Web Projects](#web-projects)
 * [Database Projects](#database-projects)
 
-### Web Projects
+## Web Projects
 
 [Coffee shop Webpage]							       
 - Created personal web-page using HTML5, CSS (3) and JavaScript.
@@ -14,13 +14,13 @@
 - In Genesys Hackathon, created a QnA Service program for employees.
 - Analyze frequently inquired categories, prevent malicious language complaints from customers
 
-### Database Projects
+## Database Projects
 
 [HR Application]						
 - Created a simple HR application using the C++ programming language and MySQL server.
 - The application finds, report, insert, update and delete the employee information.
 
-### Game Projects
+## Game Projects
 
 [Pandemic]
 
