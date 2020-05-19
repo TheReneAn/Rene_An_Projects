@@ -23,8 +23,6 @@
 ### Game Projects
 
 [Pandemic]
--
--
 
 [Cube Escape - Seasons]
 - Developing an imitative game to improve programming skills using C# and Unity engine.
