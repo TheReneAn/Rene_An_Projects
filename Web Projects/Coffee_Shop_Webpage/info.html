@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>An</title> <!--Youjin An (Rene)-->
+    <link href="normalize.css" rel="stylesheet" type="text/css" />
+    <script src="info.js"></script>
+</head>
+
+<body>
+    <div class=container>
+        <header>
+            <img src="img/3_logo_2.jpg" alt="3_logo_2" class="center">
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="Rene.html">MADE BY</a></li>
+                <li><a href="info.html">INFO</a></li>
+            </ul>
+        </nav>
+
+        <main class="main_info">
+            <form id="info" name="signup" method="POST" action="https://httpbin.org/post" onsubmit="return formValidation();">
+                <fieldset>
+                    <legend>User Infomation</legend>
+                    <p>
+                        <label for="fname">First Name </label>          
+                        <input type="text" name="fname" id="fname" onchange="validateFirstname()"/>
+                        <span class="err" id="fnameErr"></span>
+                    </p>
+                    <p>
+                        <label for="lname">Last Name </label>
+                        <input type="text" name="lname" id="lname" onchange="validateLastname()"/>
+                        <span class="err" id="lnameErr"></span>
+                    </p>
+                    <p>
+                        <label for="uname">Username </label>
+                        <input type="text" name="uname" id="uname" onchange="validateUsername()"/>
+                        <span class="err" id="unameErr"></span>
+                    </p>
+                    <p>
+                        <label for="pw" >Password </label>
+                        <input type="password" name="pw" id="pw" onchange="validatePassword()"/>
+                        <span class = "err" id="pwErr"></span>
+                    </p>
+                    <p>
+                        <label for="pw2">Password again </label>
+                        <input type="password" name="pw2" id="pw2" onchange="checkPassword()"/>
+                        <span class="err" id="pw2Err"></span>
+                    </p>
+                    <p>
+                        <label for="email">Email </label>
+                        <input type="email" name="email" id="email"/>
+                    </p>
+                    <p>
+                        <label for="age">Age </label>
+                        <input type="text" name="age" id="age" onchange="validateAge()"/>
+                        <span class="err" id="ageErr"></span>
+                    </p>
+                    <p>
+                        <label for="edu">Education Level </label>
+                        <select name="edu" id="edu">
+                            <option value="0">-select-</option>
+                            <option value="1">Technical Diploma</option>
+                            <option value="2">College Diploma</option>
+                            <option value="3">Bachelor's Degree</option>
+                            <option value="4">Master's Degree</option>
+                            <option value="5">Ohters</option>
+                        </select>
+                        <span class="err" id="eduLevelErr"></span>
+                    </p>
+                    <p>
+                        Education Status
+                        <span class="err" id="eduStatErr"></span>
+                        <br>
+                        <input type="radio" name="edustat" id="edustat1" value="Graduated"/> Graduated
+                        <input type="radio" name="edustat" id="edustat2" value="Current enrolled"/> Current enrolled
+                        <input type="radio" name="edustat" id="edustat3" value="Did not graduate"/> Did not graduate
+                    </p>
+
+                   
+                </fieldset>
+                <input type="hidden" name="lastName" id="lastName" value="An" />
+                <input type="hidden" name="studentId" id="studentId" value="140413188" />
+            </form>
+
+            <br>
+            <input type="submit" id="submit" form="info" value="Submit"> &nbsp; &nbsp;
+            <input type="reset" id="reset" form="info" value="Reset" onclick="clearerrors()">
+        </main>
+
+        <section class="side">
+            <h1>&nbsp;</h1>
+        </section>
+
+        <div class="clear"></div>
+        <footer>
+            <p class="center">&copy; 2019 Student Youjin An (Rene)</p>
+        </footer>
+    </div>
+</body>
+
+</html>
