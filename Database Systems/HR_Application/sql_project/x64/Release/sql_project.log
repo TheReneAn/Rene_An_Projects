@@ -1,7 +1,0 @@
-﻿  HR_application.cpp
-C:\Users\auj08\Desktop\Youjin_An_Projects\Database Systems\HR_Application\sql_project\HR_application.cpp(343,13): warning C4101: 'res': unreferenced local variable
-C:\Users\auj08\Desktop\Youjin_An_Projects\Database Systems\HR_Application\sql_project\HR_application.cpp(377,13): warning C4101: 'res': unreferenced local variable
-C:\Users\auj08\Desktop\Youjin_An_Projects\Database Systems\HR_Application\sql_project\HR_application.cpp(404,13): warning C4101: 'res': unreferenced local variable
-  Generating code
-LINK : fatal error C1354: error accessing previous object file C:\Users\auj08\Desktop\Youjin_An_Projects\Database Systems\HR_Application\x64\Release\sql_project.iobj (corrupted symbol table)
-LINK : fatal error LNK1257: code generation failed
