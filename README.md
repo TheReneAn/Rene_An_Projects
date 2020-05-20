@@ -9,12 +9,12 @@
 ```
 [Coffee Shop Webpage]							       
 - Created personal web-page using HTML, CSS and JavaScript.
-- JavaScript validation supports confirming a password match and a submit button, a reset button.
+- JavaScript validation supports confirming password match and a submit & reset button.
 
 [FILTER TO QUESTIONS]
 - In Genesys Hackathon, created a QnA Service program for employees.
 - Took charge of front side using HTML, CSS and JavaScript.
-- Analyze frequently inquired categories, prevent malicious language complaints from customers
+- The application analyzes frequently inquired categories, prevent malicious language complaints from customers
 ```
 
 ## Database Projects
