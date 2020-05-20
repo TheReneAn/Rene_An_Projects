@@ -27,8 +27,9 @@
 ## Game Projects
 ```
 [Pandemic]
+- Created the Clicker game called 'Pandemic' as a team member in 'Makit'
+- Used Unity engine with C#
+- Developed UI desinge, shops (Player, Followers), money, sound manager system
+- Designed overall game systems plan, and documented game information
 
-[Cube Escape - Seasons]
-- Developing an imitative game to improve programming skills using C# and Unity engine.
-- Working together with the people who met at the programmer's meeting. The team name is Makit.
 ```
