@@ -29,7 +29,6 @@
 [Pandemic]
 - Created the Clicker game called 'Pandemic' as a team member in 'Makit'
 - Used Unity engine with C#
-- Developed UI desinge, shops (Player, Followers), money, sound manager system
-- Designed overall game systems plan, and documented game information
-
+- Developed UI desinge, shops (Player, Followers), money, sound management system
+- Designed overall game plan, and documented game information
 ```
