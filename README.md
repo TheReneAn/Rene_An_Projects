@@ -27,8 +27,8 @@
 ## Game Projects
 ```
 [Pandemic]
-- Created the Clicker game called 'Pandemic' as a team member in 'Makit'
-- Used Unity engine with C#
+- Created the Clicker game called 'Pandemic' as a team member in 'Makit' using Unity engine with C#
+- Release at Google store on 22 May, 2020
 - Developed UI desinge, shops (Player, Followers), money, sound management system
 - Designed overall game plan, and documented game information
 ```
