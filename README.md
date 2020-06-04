@@ -28,7 +28,7 @@
 ```
 [Pandemic]
 - Created the Clicker game called 'Pandemic' as a team member in 'Makit' using Unity engine with C#
-- The game was released on the Google play store in June, 2020
+- The game will be released on the Google play store in June, 2020 (Processing update)
 - Developed UI desinge, shops (Player, Followers), money, sound management system
 - Designed overall game plan, and documented game information
 ```
