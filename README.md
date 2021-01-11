@@ -19,9 +19,10 @@
 ## Python Projects
 ```
 [Pang Game]
+- Emulated the Pang game, an action arcade game released by Mitchell.
 
 [Poop Game]
-
+- A game to avoid poo falling from the sky
 ```
 
 ## Web Projects
