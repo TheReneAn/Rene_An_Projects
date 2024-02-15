@@ -9,11 +9,10 @@
 ## Game Projects
 ```
 [Pandemic]
-- Created the Clicker mobile game called 'Pandemic' as a team member in 'Makit' using Unity engine with C#
-- The game was released on the Google play store in June, 2020
-  (https://play.google.com/store/apps/details?id=com.Makit.PANDEMIC)
-- Developed UI desinge, shops (Player, Followers), money, sound management system
-- Designed overall game plan, and documented game information
+- Collaborated with the 'Makit' team to develop the Clicker mobile game "Pandemic" for the Google Play Store 
+(While the link was previously accessible, it is currently unavailable:     https://play.google.com/store/apps/details?id=com.Makit.PANDEMIC)
+- Created critical game features, including UI/UX, shop systems, currency management, and sound integration, utilizing Unity and C# 
+- Led and guided all aspects of game design, ensuring comprehensive planning and documentation for the complete game system 
 ```
 
 ## Python Projects
