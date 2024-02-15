@@ -10,7 +10,7 @@
 ```
 [Pandemic]
 - Collaborated with the 'Makit' team to develop the Clicker mobile game "Pandemic" for the Google Play Store 
-(While the link was previously accessible, it is currently unavailable:     https://play.google.com/store/apps/details?id=com.Makit.PANDEMIC)
+(While the link was previously accessible, it is currently unavailable: https://play.google.com/store/apps/details?id=com.Makit.PANDEMIC)
 - Created critical game features, including UI/UX, shop systems, currency management, and sound integration, utilizing Unity and C# 
 - Led and guided all aspects of game design, ensuring comprehensive planning and documentation for the complete game system 
 ```
