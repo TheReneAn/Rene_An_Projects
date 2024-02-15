@@ -1,11 +1,5 @@
 # PROJECTS
 
-## Table of contents
-* [Game Projects](#game-projects)
-* [Python Projects](#python-projects)
-* [Web Projects](#web-projects)
-* [Database Projects](#database-projects)
-
 ## 🖌️UI/UX Work
 
 [Rene's_UIUX_Work]
