@@ -1,8 +1,8 @@
 # PROJECTS
 
-## 🖌️UI/UX Work
+## 🖌️ Game UI/UX Work
 
-[Rene's_UIUX_Work]
+[Rene's_Game UIUX_Work]
 
 - This file contains a collection of UI/UX design work I've done. This UI/UX design file reflects efforts to make the gaming experience more enjoyable and convenient for users. Each element was designed to align with the overall flow of the game and was continuously improved based on user feedback. The goal was to contribute to enhancing the game's quality and user satisfaction.
 
